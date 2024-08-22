@@ -1,8 +1,8 @@
-# Vocaboost
+# Vocalift
 
 **Privacy Policy**
 
-This privacy policy applies to the Vocaboost app (hereby referred to as "Application") for mobile devices that was created by Xignal (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+This privacy policy applies to the Vocalift app (hereby referred to as "Application") for mobile devices that was created by Xignal (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
